@@ -1,0 +1,12 @@
+from django.contrib import admin
+from django.contrib.auth.admin import UserAdmin
+
+from .models import *
+
+
+# register models here for admin panel to make modifications
+
+admin.site.register(Category)
+admin.site.register(Customer)
+admin.site.register(Products)
+admin.site.register(Order)
