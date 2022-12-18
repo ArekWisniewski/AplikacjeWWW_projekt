@@ -1,5 +1,5 @@
 # AplikacjeWWW_projekt
-Projekt dla Aplikacja WWW, UWM
+Projekt Aplikacji WWW, UWM
 
 Arkadiusz Wiśniewski - 158929
 
